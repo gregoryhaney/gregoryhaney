@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Greg</h1> 
 <h3 align="center">Lifelong Learner</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregoryhaney&label=Profile%20views&color=0e75b6&style=flat" alt="gregoryhaney" /> </p> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregoryhaney" alt="gregoryhaney" /></a> </p> 
+
 <p> - 📫 How to reach me: gregory.haney@gmail.com</p>
 <p> - 😄 Pronouns: he/him </p>
 <h3 align="left">Connect with me:</h3> 
