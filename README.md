@@ -7,11 +7,10 @@
 <h3 align="center">Lifelong Learner</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregoryhaney&label=Profile%20views&color=0e75b6&style=flat" alt="gregoryhaney" /> </p> 
 
-<h3 align="left">A Little About Me:</h3> 
+<h3 align="left">My Story in Pictures:</h3> 
   
--   ![airforcelogo](https://user-images.githubusercontent.com/10354411/161590330-d1527f98-4417-49d0-ac1f-e8f197496ded.jpeg)
--   ![nssLogo](https://user-images.githubusercontent.com/10354411/161590375-d4d023e9-0ce1-4d4a-8885-783d12775309.png)
--   ![wrx](https://user-images.githubusercontent.com/10354411/161590388-8f93857e-0ae8-4890-8333-34b4f839bd91.png)
+<p align="left"> <img src="https://user-images.githubusercontent.com/10354411/161590330-d1527f98-4417-49d0-ac1f-e8f197496ded.jpeg" alt="United States Air Force" width="100" height="75" /> <img src="https://user-images.githubusercontent.com/10354411/161590375-d4d023e9-0ce1-4d4a-8885-783d12775309.png" alt="Nashville Software School" /> <img src="https://user-images.githubusercontent.com/10354411/161590388-8f93857e-0ae8-4890-8333-34b4f839bd91.png" alt="Subaru WRX" width="100" height="100" /> <img src="https://user-images.githubusercontent.com/10354411/161625171-3238e8f5-226b-40e8-a7b1-955b96476f11.jpeg" alt="Golf ball at the cup" width="100" height="100" /></p>
+
 
 
 <p> - 📫 How to reach me: gregory.haney@gmail.com</p>
