@@ -7,8 +7,15 @@
 <h3 align="center">Lifelong Learner</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregoryhaney&label=Profile%20views&color=0e75b6&style=flat" alt="gregoryhaney" /> </p> 
 
+<h3 align="left">A Little About Me:</h3> 
+  
+-   ![airforcelogo](https://user-images.githubusercontent.com/10354411/161590330-d1527f98-4417-49d0-ac1f-e8f197496ded.jpeg)
+-   ![nssLogo](https://user-images.githubusercontent.com/10354411/161590375-d4d023e9-0ce1-4d4a-8885-783d12775309.png)
+-   ![wrx](https://user-images.githubusercontent.com/10354411/161590388-8f93857e-0ae8-4890-8333-34b4f839bd91.png)
+
+
 <p> - 📫 How to reach me: gregory.haney@gmail.com</p>
-<p> - 😄 Pronouns: he/him </p>
+<p> - 😄 Pronouns: he/him/his </p>
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
 <a href="https://linkedin.com/in/gregoryshaney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregoryshaney" height="30" width="40" /></a> 
